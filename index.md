@@ -3,6 +3,8 @@ layout: default
 title: 리터러시 트렌드
 ---
 
+<img src="assets/logo.png" alt="LitFac 로고" class="logo">
+
 # 리터러시 트렌드 (literacytrends)
 
 리터러시팩토리(릿팩)가 매주 뉴스·블로그에서 다뤄지는 "리터러시/문해력" 관련 담론을 모아 정리하는 위키입니다. [릿팩뉴스레터](https://litfac.stibee.com/)의 "리터러시 담론읽기" 섹션 원고를 원자료로 삼아, 리터러시 관련 주제와 개념을 누적 정리합니다.

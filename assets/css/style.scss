@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 릿팩 브랜드 컬러 (litfac_logo.png에서 추출: 그린 #00A23E, 블루 #0096DF) */
+$header-bg-color: #00A23E;
+$header-bg-color-secondary: #0096DF;
+$section-headings-color: #00A23E;
+$body-link-color: #0096DF;
+$page-heading-color: #00A23E;
+
+/* 테마 변수명이 버전마다 다를 수 있어 직접 선택자로도 한 번 더 지정 */
+.page-header {
+  background-color: #00A23E;
+  background-image: linear-gradient(120deg, #00A23E, #0096DF);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #00A23E;
+}
+
+a {
+  color: #0096DF;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto 1.5rem;
+  max-width: 120px;
+}
