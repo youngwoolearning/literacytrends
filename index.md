@@ -9,8 +9,9 @@ title: 리터러시 트렌드
 
 리터러시팩토리(릿팩)가 매주 뉴스·블로그에서 다뤄지는 "리터러시/문해력" 관련 담론을 모아 정리하는 위키입니다. [릿팩뉴스레터](https://litfac.stibee.com/)의 "리터러시 담론읽기" 섹션 원고를 원자료로 삼아, 리터러시 관련 주제와 개념을 누적 정리합니다.
 
-- [저장소 바로가기](https://github.com/youngwoolearning/literacytrends) — 호별 요약(`wiki/issues/`), 주제·개념(`wiki/concepts/`), 용어집(`wiki/glossary/`) 전체 목록은 `wiki/index.md`에서 확인할 수 있습니다.
-- `raw/` — 뉴스레터 담론읽기 섹션 원고(원문)
+**[→ 위키 바로 보기](https://github.com/youngwoolearning/literacytrends/blob/main/wiki/index.md)** — 호별 요약, 반복 주제·개념, 용어집을 한눈에 볼 수 있는 카탈로그입니다.
+
+[저장소 바로가기](https://github.com/youngwoolearning/literacytrends)에서 원문 원고(`raw/`)도 확인할 수 있습니다.
 
 ## 만드는 방식
 
